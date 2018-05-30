@@ -40,9 +40,9 @@
 
 .lined-textarea-container .lined-textarea {
     float: left;
-    margin-left: 10px;
-    width: calc(100% - 60px);
-    height: 100%;
+    margin-left: 50px;
+    width: calc(80% - 60px);
+    height: 80%;
     padding: 0;
     box-sizing: inherit;
     line-height: inherit;
